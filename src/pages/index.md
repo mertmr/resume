@@ -1,58 +1,79 @@
 ---
-title: Richard Hendriks - Resume
-description: Resume about Richard Hendriks, CEO of Pied Piper.
+title: Mert Meral - Resume
+description: Resume of Mert Meral, Software Development Team Lead with extensive experience in Java, Node.js, and microservices.
 layout: ../layouts/Minimalist.astro
 pdfLink: resume.pdf
 ---
 
-# Richard Hendriks
+# Mert Meral
 
-**Programmer**
+**Software Development Team Lead**
 
-San Francisco, USA | richard.hendriks@gmail.com | http://richardhendricks.com
+Dubai, United Arab Emirates | mertmr@gmail.com
 
-Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!
+- 👋 Bringing 14+ years of software development and 6+ years of team-leading experience.
+- 🚀 14 years of Java and 7 years of Node.js experience.
+- 🌐 Full stack dev experience with React.
+- ⚙ Proficiency in working with both relational and NoSQL databases.
+- 🏛 Experienced in Kubernetes, Docker, and microservices, creating scalable solutions.
 
 ## Work Experience
 
-### [Google](https://www.google.com/)
+### [Emirates](https://www.emirates.com/)
 
-#### Senior Software Engineer | Oct 2022 - Current
+#### Senior Team Lead | Feb 2023 - Current
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+- Design and implementation of microservices-based architecture using Node.js, Next.js, Java, Spring Boot, and React
+- Containerization using Docker and deployed applications on OpenShift
+- Implement security and authentication mechanisms using Keycloak, including Azure AD SSO and OAuth 2.0
 
-#### Software Engineer | Aug 2018 - Oct 2022
+### [Sapiens](https://www.sapiens.com/)
 
-Elit mollit ipsum fugiat enim labore et non. Amet nulla cupidatat esse est qui magna culpa velit magna excepteur proident Lorem aliquip ullamco. Anim culpa sit cillum enim consectetur aliqua id Lorem aute id id laborum. Sit nostrud ea anim et deserunt cillum sint culpa laboris. Nisi magna amet minim esse dolore. Do officia ipsum duis exercitation incididunt irure pariatur.
+#### Software Development Team Lead | Jul 2022 - Feb 2023
 
-### [Pied Piper](http://piedpiper.com/)
+- Lead a team of Java developers in the design and development of software applications
+- Mentor and train team members on best practices for Java development
+- Collaborate with project managers and stakeholders to define project scope and deliverables
+- Assisted in troubleshooting and resolving technical issues
 
-#### CEO/President | Dec 2013 - Dec 2014
+### [Kodops Bilişim](https://www.kodops.com/)
 
-Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.
+#### Software Development Team Lead | Sep 2019 - Jul 2022
 
-- Build an algorithm for artist to detect if their music was violating copy right infringement laws
-- Successfully won Techcrunch Disrupt
-- Optimized an algorithm that holds the current world record for Weisman Scores
+- Led the development of multiple projects utilizing technologies such as Nodejs, Nextjs, Spring Boot, Elasticsearch, Postgresql, and Docker
+- Implemented an on-premise Kubernetes installation, AWS ECS, and managed microservices
+- Led the implementation of a CI/CD pipeline using GitHub Actions and Docker Hub
+- Implemented multithreaded applications using Golang
 
-## Projects
+### [Etstur](https://www.etstur.com/)
 
-### [Sillicon Valley](<https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)>)
+#### Software Development Team Lead | Aug 2017 - Sep 2019
 
-#### Video Compression for 3D Media
+- Worked with Java EE, Spring Boot, Elasticsearch, Postgresql, MongoDB
+- Led the architecture of migrating monolith app to microservices
+- Implemented CI/CD with Jenkins and Docker
+- Utilized Kubernetes for automating deployment, scaling, and management of containerized applications
+- Set up log monitoring with ELK
+- Managed cloud deployment to AWS
 
-#### Founder | Oct 2014
+### [Turkcell](https://www.turkcell.com.tr/)
 
-Innovative middle-out compression algorithm that changes the way we store data.
+#### Software Development Consultant | Dec 2013 - Aug 2017
 
-## Languages
+- Automation and integration between systems with Java web services (REST, SOAP)
+- Developed and maintained Java-based software applications and web applications with Spring, Spring Boot, Angular, React, Vaadin, and GWT
 
-| English        | English     |
-| -------------- | ----------- |
-| Native speaker | Proficiency |
+### [Alcatel-Lucent Turkey](https://www.al-enterprise.com/)
+
+#### Software Developer | Oct 2010 - Dec 2013
+
+- Developed and maintained software applications using Java, Spring, Hibernate, SOAP
+- Contributed to the design and implementation of new features and improvements to existing systems
+- Worked on software projects in the OSS/BSS/Application Integration domains for clients in Turkey, the USA, Poland, and Azerbaijan
+
 
 ## Education
 
-### University of Oklahoma
+### Ege Üniversitesi
 
-#### Bachelor, Information Technology | Jun 2011 - Jan 2014
+#### Bachelor, Computer Engineering | 2006 - 2010

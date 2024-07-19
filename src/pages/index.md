@@ -11,11 +11,11 @@ pdfLink: resume.pdf
 
 Dubai, United Arab Emirates | mertmr@gmail.com
 
-- 👋 Bringing 14+ years of software development and 6+ years of team-leading experience.
-- 🚀 14 years of Java and 7 years of Node.js experience.
-- 🌐 Full stack dev experience with React.
-- ⚙ Proficiency in working with both relational and NoSQL databases.
-- 🏛 Experienced in Kubernetes, Docker, and microservices, creating scalable solutions.
+- Bringing 14+ years of software development and 6+ years of team-leading experience.
+- 14 years of Java and 7 years of Node.js experience.
+- Full stack dev experience with React.
+- Proficiency in working with both relational and NoSQL databases.
+- Experienced in Kubernetes, Docker, and microservices, creating scalable solutions.
 
 ## Work Experience
 

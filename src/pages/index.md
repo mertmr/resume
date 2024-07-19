@@ -53,8 +53,7 @@ Dubai, United Arab Emirates | mertmr@gmail.com
 - Led the architecture of migrating monolith app to microservices
 - Implemented CI/CD with Jenkins and Docker
 - Utilized Kubernetes for automating deployment, scaling, and management of containerized applications
-- Set up log monitoring with ELK
-- Managed cloud deployment to AWS
+- Managed cloud deployment to AWS, set up log monitoring with ELK
 
 ### [Turkcell](https://www.turkcell.com.tr/)
 
